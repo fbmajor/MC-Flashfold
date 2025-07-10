@@ -1,8 +1,2 @@
 # MC-Flashfold
 MC-Flashfold Java wrapper code
-Conditions of use of the MC-Tools, including MC-Sym and all variants of MC-Fold, including MC-Flashfold 
-The Université de Montréal (the “University”) owns the MC-Tools (the “Software”), invented and developed in the Laboratory of François Major, full professor at the University. 
-Main contributors: François Major is the inventor and main contributor of the Software, which was developed since 2005 with the main following contributors (in alphabetical order): Simon Chasles, Paul Dallaire, Mathieu Dupont, Patrick Gendron, Martin Larose, Sébastien Lemieux, Francois Major, Marc Parisien, Philippe Thibault. 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this Software and associated documentation files, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: 
-The following copyright notice and this permission notice shall be included in all copies or substantial portions of the Software: “Copyright 2005-2025 Université de Montréal, François Major’s Laboratory.” 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. 
